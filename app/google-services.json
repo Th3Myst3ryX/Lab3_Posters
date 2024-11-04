@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418656742014",
+    "project_id": "lab3-posters",
+    "storage_bucket": "lab3-posters.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418656742014:android:ef280bcfb195954c52462f",
+        "android_client_info": {
+          "package_name": "com.example.lab_posters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HONmifP6XKE__d9gHPwKDjvXmOcoA5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
